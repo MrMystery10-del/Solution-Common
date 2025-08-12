@@ -1,0 +1,20 @@
+{
+    "name": "com.solution.common",
+    "version": "1.0.0",
+    "displayName": "Common for Solution packages",
+    "description": "This package is a shared dependency for all packages published by Solution",
+    "unity": "6000.0",
+    "unityRelease": "24f1",
+    "documentationUrl": "https://github.com/MrMystery10-del/Solution-Common/blob/main/Documentation~/Common.md",
+    "changelogUrl": "https://github.com/MrMystery10-del/Solution-Common/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/MrMystery10-del/Solution-Common/blob/main/LICENSE.md",
+    "keywords": [
+        "common dependency",
+        "interface"
+    ],
+    "author": {
+        "name": "Kirils Turkins - Solution",
+        "url": "https://github.com/MrMystery10-del"
+    }
+}
+
